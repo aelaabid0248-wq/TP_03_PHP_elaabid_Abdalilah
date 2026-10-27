@@ -1,0 +1,26 @@
+[
+    {
+        "nom": "Ahmed",
+        "note_info": 15,
+        "note_math": 12,
+        "moyenne": 13.5
+    },
+    {
+        "nom": "Hind",
+        "note_info": 17,
+        "note_math": 16,
+        "moyenne": 16.5
+    },
+    {
+        "nom": "Samir",
+        "note_info": 8,
+        "note_math": 9,
+        "moyenne": 8.5
+    },
+    {
+        "nom": "Aicha",
+        "note_info": 13,
+        "note_math": 14,
+        "moyenne": 13.5
+    }
+]
